@@ -1,4 +1,4 @@
-# Top Down Register Allocator
+# Bottom Up Register Allocator
 
 This is the implementation of a bottom up register allocator. It reads the instructions from the input file 'input.txt' and writes the register allocated code to output.txt file. 
 
