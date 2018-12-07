@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "reg_alloc.h": "c",
+        "list.h": "c"
+    }
+}

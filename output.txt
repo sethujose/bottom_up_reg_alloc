@@ -1,0 +1,7 @@
+op r1, r2, r2;
+op r3, r1, r4;
+op r1, r5, r5;
+op r6, r3, r7;
+op r1, r1, r1;
+op r4, r7, r4;
+op r6, r5, r7;

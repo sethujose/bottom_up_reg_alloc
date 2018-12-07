@@ -1,0 +1,35 @@
+op v1, v2, v2
+variable v1 is added to register r1
+variable v2 is added to register r2
+variable v2 is already in register r2
+
+op v3, v1, v4
+variable v3 is added to register r3
+variable v1 is already in register r1
+variable v4 is added to register r4
+
+op v1, v5, v5
+variable v1 is already in register r1
+variable v5 is added to register r5
+variable v5 is already in register r5
+
+op v7, v3, v6
+variable v7 is added to register r6
+variable v3 is already in register r3
+variable v6 is added to register r7
+
+op v1, v1, v1
+variable v1 is already in register r1
+variable v1 is already in register r1
+variable v1 is already in register r1
+
+op v4, v6, v4
+variable v4 is already in register r4
+variable v6 is already in register r7
+variable v4 is already in register r4
+
+op v7, v5, v6
+variable v7 is already in register r6
+variable v5 is already in register r5
+variable v6 is already in register r7
+
